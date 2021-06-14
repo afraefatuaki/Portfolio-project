@@ -1,7 +1,7 @@
 
 # Welcome to my Portfolio-project project,(HTML/CSS)
 
- In case you´re interested in seeing the resutls, here is the link: https://afraefatuaki.github.io/Project-Work.responsibly/
+ In case you´re interested in seeing the resutls, here is the link: https://afraefatuaki.github.io/Portfolio-project/
 
   
 
